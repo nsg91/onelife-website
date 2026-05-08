@@ -1,6 +1,6 @@
-# Vara Support
+# VOID Support
 
-Welcome to the official support page for **Vara**. We are dedicated to providing you with a seamless and peaceful experience.
+Welcome to the official support page for **VOID**. We are dedicated to providing you with a seamless and peaceful experience.
 
 ## Contact Us
 If you are experiencing issues with the app, have a feature request, or just want to say hello, please reach out to us directly.
@@ -8,4 +8,4 @@ If you are experiencing issues with the app, have a feature request, or just wan
 📧 **Email:** nsgn.one@gmail.com 
 *(We typically respond within 24-48 hours)*
 
-*© 2026 Vara. All rights reserved.*
+*© 2026 VOID. All rights reserved.*
